@@ -469,20 +469,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-dblp',
-        title: 'DBLP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://dblp.org/pid/118/9049.html", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%66%61%65%67%68%65%68.%68%61%73%69%62%69@%72%75.%6E%6C", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -497,32 +483,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/faeghehhasibi# your LinkedIn user name", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0009-0006-9986-482X", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=RqrnTNAAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-work',
-        title: 'Work',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.ru.nl/personen/hasibi-f", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://hasibi.com/", "_blank");
         },
       },{
       id: 'light-theme',
