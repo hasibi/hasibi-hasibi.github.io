@@ -2,18 +2,18 @@
 layout: about
 title: Dr. Faegheh Hasibi
 permalink: /
-subtitle: <a href='#'>Assistant Professor , Radboud University </a>. faegheh.hasibi@ru.nl
+subtitle: Assistant Professor at the Institiute of Computing and Information Sciences, Radboud University . faegheh.hasibi@ru.nl
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Room 06.22</p>
-    <p>Toernooiveld 212</p>
+    <p> Room 06.22, </p>
+    <p>Toernooiveld 212,</p>
     <p>6525 EC Nijmegen, The Netherlands</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
