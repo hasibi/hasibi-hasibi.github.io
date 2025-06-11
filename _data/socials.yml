@@ -5,9 +5,9 @@
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-dblp_url: https://dblp.org/pid/118/9049.html # your DBLP profile url
+# dblp_url: https://dblp.org/pid/118/9049.html # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: faegheh.hasibi@ru.nl # your email address
+# email: faegheh.hasibi@ru.nl # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: hasibi # your GitHub user name
@@ -23,7 +23,7 @@ github_username: hasibi # your GitHub user name
 linkedin_username: faeghehhasibi# your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: https://orcid.org/0009-0006-9986-482X # your ORCID ID
+# orcid_id: https://orcid.org/0009-0006-9986-482X # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
@@ -41,11 +41,11 @@ scholar_userid: RqrnTNAAAAAJ #qc6CJjYAAAAJ # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: https://www.ru.nl/personen/hasibi-f # work page URL
+# work_url: https://www.ru.nl/personen/hasibi-f # work page URL
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://hasibi.com/ # https://www.alberteinstein.com/
+# custom_social: # can be any name here other than the ones already defined above
+  # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+  # title: Custom Social
+  # url: https://hasibi.com/ # https://www.alberteinstein.com/
